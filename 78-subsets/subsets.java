@@ -1,19 +1,17 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> outer = new ArrayList<>();
         int n = nums.length;
-        int total = 1 << n; // total number of subsets
-        List<List<Integer>> ans = new ArrayList<>();
-
-        for (int mask = 0; mask < total; mask++) {
-            List<Integer> subset = new ArrayList<>();
-            for (int i = 0; i < n; i++) {
-                if ((mask & (1 << i)) != 0) {
-                    subset.add(nums[i]);
+        int p = 1<<n;
+        for(int i=0;i<p;i++){
+            List<Integer> inner = new ArrayList<>();
+            for(int k=0;k<n;k++){
+                if((i&(1<<k))!=0){
+                    inner.add(nums[k]);
                 }
             }
-            ans.add(subset);
+            outer.add(inner);
         }
-
-        return ans;
+        return outer;
     }
 }
