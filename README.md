@@ -29,6 +29,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/BattuNarayana/leetcode/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,4 +61,9 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/BattuNarayana/leetcode/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
