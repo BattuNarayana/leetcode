@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BattuNarayana/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/BattuNarayana/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
