@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BattuNarayana/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -21,6 +22,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0054-spiral-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/BattuNarayana/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
