@@ -6,6 +6,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
+| [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BattuNarayana/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -81,9 +82,11 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
+| [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0054-spiral-matrix) |
+| [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
 | [0566-reshape-the-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
