@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
@@ -76,6 +77,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Stack
