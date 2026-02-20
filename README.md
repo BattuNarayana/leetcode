@@ -11,6 +11,7 @@
 | [0056-merge-intervals](https://github.com/BattuNarayana/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BattuNarayana/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -98,6 +100,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BattuNarayana/leetcode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
@@ -110,6 +113,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BattuNarayana/leetcode/tree/master/0010-regular-expression-matching) |
+| [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 ## Recursion
 |  |
 | ------- |
@@ -120,4 +124,12 @@
 | [0015-3sum](https://github.com/BattuNarayana/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BattuNarayana/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0088-merge-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
