@@ -1,12 +1,38 @@
 class Solution {
-    public int[] searchRange(int[] nums, int target) {//my approach is O(n)..we can improve it by using binary search whose time complexity would be O(logn)
-        int start=-1,end=-1;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==target){
-                if(start == -1) start = i;
-                end =i;
+    public int[] searchRange(int[] nums, int target) {
+        int first = lowerBound(nums, target);
+        if(first==nums.length || nums[first]!=target) return new int[]{-1, -1};
+        int last = upperBound(nums, target);
+        return new int[]{first, last-1};
+    }
+    public int lowerBound(int[] nums, int target){
+        int low = 0, high = nums.length-1;
+        while(low<=high){
+            int mid = (low+high)/2;
+            int ind = nums.length;
+            if(nums[mid]>=target){
+                ind = mid;
+                high = mid-1;
+            }
+            else{
+                low = mid+1;
             }
         }
-        return new int[] {start,end};
+        return low;
+    }
+    public int upperBound(int[] nums, int target){
+        int low = 0, high = nums.length-1;
+        while(low<=high){
+            int mid = (low+high)/2;
+            int ind = nums.length;
+            if(nums[mid]>target){
+                ind = mid;
+                high = mid-1;
+            }
+            else{
+                low = mid+1;
+            }
+        }
+        return low;
     }
 }
