@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/BattuNarayana/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BattuNarayana/leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/BattuNarayana/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/BattuNarayana/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BattuNarayana/leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/BattuNarayana/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -94,6 +96,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/BattuNarayana/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BattuNarayana/leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/BattuNarayana/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/BattuNarayana/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -101,6 +104,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/BattuNarayana/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BattuNarayana/leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/BattuNarayana/leetcode/tree/master/0199-binary-tree-right-side-view) |
