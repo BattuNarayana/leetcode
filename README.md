@@ -22,6 +22,7 @@
 | [0485-max-consecutive-ones](https://github.com/BattuNarayana/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/BattuNarayana/leetcode/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BattuNarayana/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/BattuNarayana/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -124,6 +125,7 @@
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
+| [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -155,4 +157,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
