@@ -16,6 +16,7 @@
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/BattuNarayana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -119,6 +120,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BattuNarayana/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BattuNarayana/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/BattuNarayana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
