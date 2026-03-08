@@ -2,8 +2,8 @@ class Solution {
     public int search(int[] nums, int target) {
         int low = 0, high = nums.length-1;
         while(low<=high){
-            if(nums[low]==target) return low;
-            if(nums[high]==target) return high;
+            //if(nums[low]==target) return low;        //these 2 lines
+            //if(nums[high]==target) return high;      // are optional....or REDUNDANT, NOISY...so dont use them
             int mid = (low+high)/2;
             if(nums[mid]==target) return mid;
             if(nums[low]<=nums[mid]){ // this means that the left half is sorted
