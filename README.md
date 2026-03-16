@@ -38,6 +38,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/BattuNarayana/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/BattuNarayana/leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BattuNarayana/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/BattuNarayana/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1929-concatenation-of-array) |
 | [2951-find-the-peaks](https://github.com/BattuNarayana/leetcode/tree/master/2951-find-the-peaks) |
 ## Enumeration
@@ -148,6 +149,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BattuNarayana/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BattuNarayana/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BattuNarayana/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/BattuNarayana/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Stack
 |  |
 | ------- |
