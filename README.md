@@ -184,6 +184,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BattuNarayana/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/BattuNarayana/leetcode/tree/master/0010-regular-expression-matching) |
 ## Two Pointers
 |  |
@@ -204,6 +205,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BattuNarayana/leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/BattuNarayana/leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/BattuNarayana/leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
@@ -214,6 +216,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BattuNarayana/leetcode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Sliding Window
 |  |
