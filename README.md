@@ -226,6 +226,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/BattuNarayana/leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/BattuNarayana/leetcode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0415-add-strings](https://github.com/BattuNarayana/leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
