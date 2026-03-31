@@ -15,6 +15,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BattuNarayana/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -179,6 +180,7 @@
 | [0010-regular-expression-matching](https://github.com/BattuNarayana/leetcode/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/BattuNarayana/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
