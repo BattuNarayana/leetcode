@@ -160,6 +160,7 @@
 | [0278-first-bad-version](https://github.com/BattuNarayana/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/BattuNarayana/leetcode/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/BattuNarayana/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BattuNarayana/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -229,6 +230,7 @@
 | [0002-add-two-numbers](https://github.com/BattuNarayana/leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/BattuNarayana/leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0400-nth-digit](https://github.com/BattuNarayana/leetcode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/BattuNarayana/leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
