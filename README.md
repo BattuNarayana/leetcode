@@ -20,6 +20,7 @@
 | [0152-maximum-product-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BattuNarayana/leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BattuNarayana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BattuNarayana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0283-move-zeroes) |
@@ -164,6 +165,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BattuNarayana/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BattuNarayana/leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BattuNarayana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BattuNarayana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/BattuNarayana/leetcode/tree/master/0278-first-bad-version) |
@@ -226,6 +228,7 @@
 | [0015-3sum](https://github.com/BattuNarayana/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BattuNarayana/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BattuNarayana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Trie
