@@ -47,6 +47,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BattuNarayana/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/BattuNarayana/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1929-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2951-find-the-peaks](https://github.com/BattuNarayana/leetcode/tree/master/2951-find-the-peaks) |
 ## Enumeration
 |  |
@@ -221,6 +222,7 @@
 | [0415-add-strings](https://github.com/BattuNarayana/leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/BattuNarayana/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0344-reverse-string](https://github.com/BattuNarayana/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/BattuNarayana/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
 | ------- |
