@@ -68,6 +68,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BattuNarayana/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/BattuNarayana/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +90,7 @@
 | [0056-merge-intervals](https://github.com/BattuNarayana/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/BattuNarayana/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/BattuNarayana/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
@@ -217,6 +219,7 @@
 | [0010-regular-expression-matching](https://github.com/BattuNarayana/leetcode/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/BattuNarayana/leetcode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/BattuNarayana/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BattuNarayana/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/BattuNarayana/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/BattuNarayana/leetcode/tree/master/0415-add-strings) |
