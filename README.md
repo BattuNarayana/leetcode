@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BattuNarayana/leetcode/tree/master/0067-add-binary) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/BattuNarayana/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/BattuNarayana/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
