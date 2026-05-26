@@ -31,6 +31,7 @@ class Solution {
                     visited.add(node.right);
                 }
 
+                //UPWARD TRAVERSAL
                 if(parent.containsKey(node) && !visited.contains(parent.get(node))) {
                     q.offer(parent.get(node));
                     visited.add(parent.get(node));
