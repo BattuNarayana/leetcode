@@ -20,6 +20,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BattuNarayana/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
@@ -75,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BattuNarayana/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/BattuNarayana/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/BattuNarayana/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -127,6 +129,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BattuNarayana/leetcode/tree/master/0112-path-sum) |
@@ -183,6 +186,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BattuNarayana/leetcode/tree/master/0112-path-sum) |
@@ -353,4 +357,5 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BattuNarayana/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
