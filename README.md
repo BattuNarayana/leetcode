@@ -317,6 +317,7 @@
 | [0011-container-with-most-water](https://github.com/BattuNarayana/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BattuNarayana/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BattuNarayana/leetcode/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/BattuNarayana/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/BattuNarayana/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BattuNarayana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -355,6 +356,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/BattuNarayana/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/BattuNarayana/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/BattuNarayana/leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Sliding Window
 |  |
