@@ -31,6 +31,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/BattuNarayana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/BattuNarayana/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -82,6 +83,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/BattuNarayana/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -96,6 +98,7 @@
 | [0067-add-binary](https://github.com/BattuNarayana/leetcode/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/BattuNarayana/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/BattuNarayana/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/BattuNarayana/leetcode/tree/master/1009-complement-of-base-10-integer) |
@@ -110,6 +113,7 @@
 | [0088-merge-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/BattuNarayana/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
@@ -251,6 +255,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BattuNarayana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BattuNarayana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/BattuNarayana/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -349,6 +354,7 @@
 | [0067-add-binary](https://github.com/BattuNarayana/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BattuNarayana/leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/BattuNarayana/leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/BattuNarayana/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/BattuNarayana/leetcode/tree/master/0415-add-strings) |
