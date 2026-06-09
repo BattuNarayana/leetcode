@@ -1,13 +1,17 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        int sum=0, cnt=0;
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1);
-        for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
-            cnt+=map.getOrDefault(sum-goal, 0);
-            map.put(sum, map.getOrDefault(sum, 0)+1);
+        return atMost(nums, goal) - atMost(nums, goal-1);
+    }
+    public int atMost(int[] nums, int k){
+        if(k<0) return 0;
+        int left=0, count=0, sum=0;
+        for(int right=0;right<nums.length;right++){
+            sum+=nums[right];
+            while(sum>k){
+                sum-=nums[left++];
+            }
+            count += right-left+1;
         }
-        return cnt;
+        return count;
     }
 }
