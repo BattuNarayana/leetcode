@@ -1,22 +1,16 @@
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
-        int sum = 0, n = cardPoints.length;
-        for(int i=0;i<n;i++){
-            sum += cardPoints[i];
+        int left=0,right=cardPoints.length-1,sum=0,max=0;
+        for(int i=0;i<k;i++){
+            sum+=cardPoints[i];
         }
-        if(n==k) return sum;
-        return sum - minSubarray(cardPoints, n - k);
-    }
-    public int minSubarray(int[] nums, int k){
-        int left=0,sum=0,min=Integer.MAX_VALUE;
-        for(int right=0;right<nums.length;right++){
-            sum += nums[right];
-            if(right-left+1>k){
-                sum-=nums[left];
-                left++;
-            }
-            if(right-left+1 ==k) min = Math.min(min, sum);
+        if(k==cardPoints.length) return sum;
+        max = sum;
+        for(int i = k - 1; i >= 0; i--){
+            sum -= cardPoints[i];
+            sum += cardPoints[right--];
+            max = Math.max(max, sum);
         }
-        return min;
+        return max;
     }
 }
