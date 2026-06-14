@@ -386,6 +386,7 @@
 | [0400-nth-digit](https://github.com/BattuNarayana/leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/BattuNarayana/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/BattuNarayana/leetcode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/BattuNarayana/leetcode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BattuNarayana/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2769-find-the-maximum-achievable-number](https://github.com/BattuNarayana/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
