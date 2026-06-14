@@ -28,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BattuNarayana/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BattuNarayana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/BattuNarayana/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/BattuNarayana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
@@ -69,6 +70,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/BattuNarayana/leetcode/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/BattuNarayana/leetcode/tree/master/2951-find-the-peaks) |
 ## Simulation
 |  |
@@ -379,6 +381,7 @@
 | [0067-add-binary](https://github.com/BattuNarayana/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BattuNarayana/leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/BattuNarayana/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/BattuNarayana/leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/BattuNarayana/leetcode/tree/master/0412-fizz-buzz) |
@@ -474,4 +477,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/BattuNarayana/leetcode/tree/master/0796-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/BattuNarayana/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
