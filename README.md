@@ -42,6 +42,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BattuNarayana/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/BattuNarayana/leetcode/tree/master/0498-diagonal-traverse) |
+| [0525-contiguous-array](https://github.com/BattuNarayana/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/BattuNarayana/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/BattuNarayana/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/BattuNarayana/leetcode/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -424,6 +426,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/BattuNarayana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/BattuNarayana/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/BattuNarayana/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/BattuNarayana/leetcode/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/BattuNarayana/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/BattuNarayana/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BattuNarayana/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
