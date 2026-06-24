@@ -301,6 +301,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/BattuNarayana/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/BattuNarayana/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/BattuNarayana/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -462,6 +463,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/BattuNarayana/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/BattuNarayana/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/BattuNarayana/leetcode/tree/master/0303-range-sum-query-immutable) |
