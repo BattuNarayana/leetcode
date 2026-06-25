@@ -86,6 +86,7 @@
 | [0415-add-strings](https://github.com/BattuNarayana/leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/BattuNarayana/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0844-backspace-string-compare](https://github.com/BattuNarayana/leetcode/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/BattuNarayana/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -306,6 +307,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/BattuNarayana/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/BattuNarayana/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0844-backspace-string-compare](https://github.com/BattuNarayana/leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/BattuNarayana/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Dynamic Programming
@@ -355,6 +357,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/BattuNarayana/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/BattuNarayana/leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/BattuNarayana/leetcode/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BattuNarayana/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Recursion
@@ -379,6 +382,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/BattuNarayana/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/BattuNarayana/leetcode/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
