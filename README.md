@@ -48,6 +48,7 @@
 | [0566-reshape-the-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/BattuNarayana/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
+| [0706-design-hashmap](https://github.com/BattuNarayana/leetcode/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/BattuNarayana/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -112,6 +113,7 @@
 | [0525-contiguous-array](https://github.com/BattuNarayana/leetcode/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0706-design-hashmap](https://github.com/BattuNarayana/leetcode/tree/master/0706-design-hashmap) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/BattuNarayana/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/BattuNarayana/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -436,6 +438,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/BattuNarayana/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/BattuNarayana/leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0706-design-hashmap](https://github.com/BattuNarayana/leetcode/tree/master/0706-design-hashmap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -493,6 +496,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/BattuNarayana/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/BattuNarayana/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/BattuNarayana/leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -538,4 +542,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/BattuNarayana/leetcode/tree/master/0207-course-schedule) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/BattuNarayana/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
