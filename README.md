@@ -443,6 +443,7 @@
 | [0002-add-two-numbers](https://github.com/BattuNarayana/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/BattuNarayana/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/BattuNarayana/leetcode/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/BattuNarayana/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0706-design-hashmap](https://github.com/BattuNarayana/leetcode/tree/master/0706-design-hashmap) |
 ## Sliding Window
