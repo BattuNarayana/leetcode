@@ -17,8 +17,8 @@ class Solution {
             String curr = p.s;
             int len = p.len;
             if(endWord.equals(curr)) return len;
+            char[] ch = curr.toCharArray();
             for(int i=0;i<curr.length();i++){
-                char[] ch = curr.toCharArray();
                 char original = ch[i];
                 for(char j='a';j<='z';j++){
                     if(j == original) continue;
@@ -29,6 +29,7 @@ class Solution {
                         set.remove(temp);
                     }
                 }
+                ch[i] = original;
             }
         }
         return 0;
