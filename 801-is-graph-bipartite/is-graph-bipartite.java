@@ -1,27 +1,25 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
         int m = graph.length;
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(0);
         int[] color = new int[m];
-        for(int j=0;j<m;j++){  // The graph caan be disconnected also, so traverse every node
-            if(color[j]==0) { 
-                color[j] = 1;
-                q.offer(j);
-                while(!q.isEmpty()){
-                    int node = q.poll();
-                    for(int i=0;i<graph[node].length;i++){
-                        int neighbor = graph[node][i];
-                        if(color[neighbor]==0){
-                            q.offer(neighbor);
-                            color[neighbor] = 3-color[node];
-                        }
-                        else{
-                            if(color[neighbor] == color[node]){
-                                return false;
-                            }
-                        }
-                    }
+        for(int i=0;i<m;i++){
+            if(color[i]==0){
+                color[i]= 1;
+                if(!dfs(i, graph, color)) return false;
+            }
+        }
+        return true;
+    }
+    public boolean dfs(int node, int[][] graph, int[] color){
+        for(int neighbor : graph[node]){
+            if(color[neighbor]==0){
+                color[neighbor] = 3 - color[node];
+                if(!dfs(neighbor, graph, color))
+                    return false;
+            }
+            else{
+                if(color[neighbor]==color[node]){
+                    return false;
                 }
             }
         }
