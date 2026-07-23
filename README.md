@@ -71,6 +71,7 @@
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/BattuNarayana/leetcode/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BattuNarayana/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/BattuNarayana/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BattuNarayana/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/BattuNarayana/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BattuNarayana/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -469,6 +470,7 @@
 | [0507-perfect-number](https://github.com/BattuNarayana/leetcode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BattuNarayana/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/BattuNarayana/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/BattuNarayana/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Game Theory
@@ -574,6 +576,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/BattuNarayana/leetcode/tree/master/0204-count-primes) |
+| [1250-check-if-it-is-a-good-array](https://github.com/BattuNarayana/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Queue
 |  |
