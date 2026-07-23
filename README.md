@@ -472,6 +472,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/BattuNarayana/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/BattuNarayana/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/BattuNarayana/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/BattuNarayana/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Game Theory
 |  |
@@ -578,6 +579,7 @@
 | [0204-count-primes](https://github.com/BattuNarayana/leetcode/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/BattuNarayana/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/BattuNarayana/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Queue
 |  |
 | ------- |
