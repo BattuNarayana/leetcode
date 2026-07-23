@@ -3,6 +3,7 @@ class Solution {
         int g = nums[0];
         for(int num : nums){
             g = findGCD(g, num);
+            if(g==1) return true;
         }
         return g==1;
     }
