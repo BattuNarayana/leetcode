@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/BattuNarayana/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/BattuNarayana/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/BattuNarayana/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/BattuNarayana/leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/BattuNarayana/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/BattuNarayana/leetcode/tree/master/0064-minimum-path-sum) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BattuNarayana/leetcode/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/BattuNarayana/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/BattuNarayana/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0120-triangle) |
@@ -539,6 +541,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BattuNarayana/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/BattuNarayana/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BattuNarayana/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/BattuNarayana/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/BattuNarayana/leetcode/tree/master/0605-can-place-flowers) |
