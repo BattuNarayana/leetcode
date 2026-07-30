@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BattuNarayana/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/BattuNarayana/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/BattuNarayana/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/BattuNarayana/leetcode/tree/master/0055-jump-game) |
@@ -353,6 +354,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BattuNarayana/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BattuNarayana/leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/BattuNarayana/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/BattuNarayana/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/BattuNarayana/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
@@ -439,6 +442,7 @@
 | [0011-container-with-most-water](https://github.com/BattuNarayana/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BattuNarayana/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BattuNarayana/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/BattuNarayana/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/BattuNarayana/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/BattuNarayana/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BattuNarayana/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -573,6 +577,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BattuNarayana/leetcode/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
