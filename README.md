@@ -98,6 +98,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/BattuNarayana/leetcode/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/BattuNarayana/leetcode/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/BattuNarayana/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -492,6 +493,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/BattuNarayana/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/BattuNarayana/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/BattuNarayana/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
 | ------- |
