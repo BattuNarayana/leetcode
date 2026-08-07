@@ -41,6 +41,7 @@
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/BattuNarayana/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -344,6 +345,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/BattuNarayana/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/BattuNarayana/leetcode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/BattuNarayana/leetcode/tree/master/0400-nth-digit) |
@@ -384,6 +386,7 @@
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/BattuNarayana/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
@@ -636,4 +639,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BattuNarayana/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
