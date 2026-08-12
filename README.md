@@ -382,6 +382,7 @@
 | [0042-trapping-rain-water](https://github.com/BattuNarayana/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/BattuNarayana/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/BattuNarayana/leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/BattuNarayana/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/BattuNarayana/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BattuNarayana/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -421,6 +422,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BattuNarayana/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/BattuNarayana/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/BattuNarayana/leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/BattuNarayana/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/BattuNarayana/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/BattuNarayana/leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
