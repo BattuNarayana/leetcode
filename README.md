@@ -75,6 +75,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BattuNarayana/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/BattuNarayana/leetcode/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/BattuNarayana/leetcode/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BattuNarayana/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/BattuNarayana/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BattuNarayana/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -473,6 +474,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/BattuNarayana/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/BattuNarayana/leetcode/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
