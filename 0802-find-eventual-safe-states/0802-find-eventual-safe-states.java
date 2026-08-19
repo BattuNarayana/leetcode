@@ -1,33 +1,25 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
         int n = graph.length;
-        int[] outDegree = new int[n];
-        List<List<Integer>> reverseGraph = new ArrayList<>();
-        Queue<Integer> q = new LinkedList<>();
-        List<Integer> ans = new ArrayList<>();
-
+        int[] state = new int[n]; // 0 = unvisited, 1 = visiting, 2 = safe 
+        List<Integer> al = new ArrayList<>();
         for(int i=0;i<n;i++){
-            reverseGraph.add(new ArrayList<>());
-        }
-        for(int i=0;i<n;i++){
-            outDegree[i] = graph[i].length;
-            for(int neighbor : graph[i]){
-                reverseGraph.get(neighbor).add(i);
+            if(state[i]==0){
+                dfs(i, graph, state);
             }
+            if(state[i]==2) al.add(i);
         }
-        for(int i=0;i<n;i++){
-            if(outDegree[i]==0) q.offer(i);
-        }
+        return al; // since we iterate from 0 -> n-1, 'al' is already sorted in ascending order
+    }
+    boolean dfs(int u, int[][] graph, int[] state){
+        if(state[u]==1) return false; // cycle detected
+        else if(state[u]==2) return true; // a;ready safe
 
-        while(!q.isEmpty()){
-            int curr= q.poll();
-            ans.add(curr);
-            for(int parent : reverseGraph.get(curr)){
-                outDegree[parent]--;
-                if(outDegree[parent]==0) q.offer(parent);
-            }
+        state[u] = 1; // mark as visiting
+        for(int v : graph[u]){
+            if(!dfs(v, graph, state)) return false; // any path leads to cycle
         }
-        Collections.sort(ans);
-        return ans;
+        state[u] = 2; // mark as safe
+        return true;
     }
 }
