@@ -4,10 +4,7 @@ class Solution {
         int[] state = new int[n]; // 0 = unvisited, 1 = visiting, 2 = safe 
         List<Integer> al = new ArrayList<>();
         for(int i=0;i<n;i++){
-            if(state[i]==0){
-                dfs(i, graph, state);
-            }
-            if(state[i]==2) al.add(i);
+                if(dfs(i, graph, state)) al.add(i);
         }
         return al; // since we iterate from 0 -> n-1, 'al' is already sorted in ascending order
     }
