@@ -43,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/BattuNarayana/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BattuNarayana/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/BattuNarayana/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -355,6 +356,7 @@
 | [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/BattuNarayana/leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BattuNarayana/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/BattuNarayana/leetcode/tree/master/0400-nth-digit) |
@@ -600,6 +602,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BattuNarayana/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Monotonic Stack
 |  |
@@ -683,17 +686,25 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BattuNarayana/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BattuNarayana/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BattuNarayana/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BattuNarayana/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BattuNarayana/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
