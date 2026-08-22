@@ -59,6 +59,7 @@
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/BattuNarayana/leetcode/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/BattuNarayana/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/BattuNarayana/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -548,6 +549,7 @@
 | [0303-range-sum-query-immutable](https://github.com/BattuNarayana/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/BattuNarayana/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/BattuNarayana/leetcode/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/BattuNarayana/leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/BattuNarayana/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/BattuNarayana/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/BattuNarayana/leetcode/tree/master/1004-max-consecutive-ones-iii) |
