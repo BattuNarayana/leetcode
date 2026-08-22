@@ -87,6 +87,7 @@
 | [1470-shuffle-the-array](https://github.com/BattuNarayana/leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BattuNarayana/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/BattuNarayana/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1732-find-the-highest-altitude](https://github.com/BattuNarayana/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/BattuNarayana/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -365,6 +366,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BattuNarayana/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BattuNarayana/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/BattuNarayana/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1901-find-a-peak-element-ii](https://github.com/BattuNarayana/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
 |  |
@@ -598,6 +600,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -677,4 +680,20 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/BattuNarayana/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+## Merge Sort
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+## Ordered Set
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
