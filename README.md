@@ -101,6 +101,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/BattuNarayana/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2206-divide-array-into-equal-pairs](https://github.com/BattuNarayana/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2951-find-the-peaks](https://github.com/BattuNarayana/leetcode/tree/master/2951-find-the-peaks) |
 | [3731-find-missing-elements](https://github.com/BattuNarayana/leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -158,6 +159,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/BattuNarayana/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BattuNarayana/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BattuNarayana/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/BattuNarayana/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3731-find-missing-elements](https://github.com/BattuNarayana/leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -170,6 +172,7 @@
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/BattuNarayana/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/BattuNarayana/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [2206-divide-array-into-equal-pairs](https://github.com/BattuNarayana/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BattuNarayana/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BattuNarayana/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/BattuNarayana/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
