@@ -104,6 +104,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/BattuNarayana/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/BattuNarayana/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2706-buy-two-chocolates](https://github.com/BattuNarayana/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2951-find-the-peaks](https://github.com/BattuNarayana/leetcode/tree/master/2951-find-the-peaks) |
 | [3731-find-missing-elements](https://github.com/BattuNarayana/leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -199,6 +200,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BattuNarayana/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/BattuNarayana/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2706-buy-two-chocolates](https://github.com/BattuNarayana/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/BattuNarayana/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
@@ -605,6 +607,7 @@
 | [0680-valid-palindrome-ii](https://github.com/BattuNarayana/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BattuNarayana/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/BattuNarayana/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Design
 |  |
 | ------- |
