@@ -97,6 +97,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/BattuNarayana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/BattuNarayana/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/BattuNarayana/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1991-find-the-middle-index-in-array) |
