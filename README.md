@@ -90,6 +90,7 @@
 | [1470-shuffle-the-array](https://github.com/BattuNarayana/leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BattuNarayana/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/BattuNarayana/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/BattuNarayana/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1732-find-the-highest-altitude](https://github.com/BattuNarayana/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/BattuNarayana/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -164,6 +165,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/BattuNarayana/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BattuNarayana/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BattuNarayana/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/BattuNarayana/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/BattuNarayana/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3731-find-missing-elements](https://github.com/BattuNarayana/leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -199,6 +201,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/BattuNarayana/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BattuNarayana/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BattuNarayana/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/BattuNarayana/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/BattuNarayana/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2706-buy-two-chocolates](https://github.com/BattuNarayana/leetcode/tree/master/2706-buy-two-chocolates) |
