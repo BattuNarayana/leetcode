@@ -420,6 +420,7 @@
 | [0152-maximum-product-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/BattuNarayana/leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/BattuNarayana/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/BattuNarayana/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0542-01-matrix) |
@@ -463,6 +464,7 @@
 | [0344-reverse-string](https://github.com/BattuNarayana/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/BattuNarayana/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/BattuNarayana/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/BattuNarayana/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/BattuNarayana/leetcode/tree/master/0415-add-strings) |
@@ -497,6 +499,7 @@
 | [0283-move-zeroes](https://github.com/BattuNarayana/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/BattuNarayana/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/BattuNarayana/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/BattuNarayana/leetcode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/BattuNarayana/leetcode/tree/master/0680-valid-palindrome-ii) |
