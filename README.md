@@ -220,6 +220,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/BattuNarayana/leetcode/tree/master/1046-last-stone-weight) |
 ## Tree
 |  |
@@ -287,6 +288,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/BattuNarayana/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BattuNarayana/leetcode/tree/master/0841-keys-and-rooms) |
@@ -316,6 +318,7 @@
 | [0547-number-of-provinces](https://github.com/BattuNarayana/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/BattuNarayana/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BattuNarayana/leetcode/tree/master/0841-keys-and-rooms) |
@@ -676,6 +679,7 @@
 | [0207-course-schedule](https://github.com/BattuNarayana/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BattuNarayana/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/BattuNarayana/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/BattuNarayana/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BattuNarayana/leetcode/tree/master/0841-keys-and-rooms) |
@@ -741,4 +745,12 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/BattuNarayana/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
