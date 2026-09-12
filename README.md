@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/BattuNarayana/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/BattuNarayana/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/BattuNarayana/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/BattuNarayana/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/BattuNarayana/leetcode/tree/master/0056-merge-intervals) |
@@ -416,6 +417,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BattuNarayana/leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/BattuNarayana/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/BattuNarayana/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/BattuNarayana/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/BattuNarayana/leetcode/tree/master/0072-edit-distance) |
@@ -637,6 +639,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BattuNarayana/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/BattuNarayana/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
