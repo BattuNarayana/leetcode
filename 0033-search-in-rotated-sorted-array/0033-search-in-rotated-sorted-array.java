@@ -1,26 +1,63 @@
 class Solution {
-    public int search(int[] nums, int target) {
-        int low = 0, high = nums.length-1;
-        while(low<=high){
-            //if(nums[low]==target) return low;        //these 2 lines
-            //if(nums[high]==target) return high;      // are optional....or REDUNDANT, NOISY...so dont use them
-            int mid = (low+high)/2;
-            if(nums[mid]==target) return mid;
-            if(nums[low]<=nums[mid]){ // this means that the left half is sorted
-                if(target>=nums[low] && target<nums[mid]){// <=nums[mid] is not written because we already wrote the condition above for mid 
-                    high = mid - 1;
-                }
-                else{
-                    low = mid + 1;
-                }
+
+    static int getPivotIndex(int[] nums){
+        int n = nums.length;
+        int s = 0;
+        int e = n-1;
+        int ans = -1;
+        while(s <= e){
+            int mid = s + (e-s)/2;
+            if(nums[mid] <= nums[n-1]){
+                e = mid-1;
             }
-            else{ // this means that the right half is sorted
-                if(target>nums[mid] && target<=nums[high]){ // >=nums[mid] is not written because we already wrote the condition above for mid 
-                    low = mid + 1;
-                }
-                else{
-                    high = mid - 1;
-                }
+            else{
+                ans = mid;
+                s = mid+1;
+            }
+        }
+        return ans;
+    }
+
+    static int binarySearch(int[] nums, int start, int end, int target){
+        int mid = -1;
+        while(start <= end){
+            mid = start + (end-start)/2;
+            if(nums[mid] == target){
+                return mid;
+            }
+            else if(nums[mid] < target){
+                start = mid+1;
+            }
+            else{
+                end = mid-1;
+            }
+        }
+        return -1;
+    }
+
+
+    public int search(int[] nums, int target) {
+        int n = nums.length;
+        int pivotIndex = getPivotIndex(nums);
+        if(pivotIndex == -1){
+            int ans = binarySearch(nums, 0, n-1, target);
+            return ans;
+        }
+        
+        else{
+            int startArray1 = 0;
+            int endArray1 = pivotIndex;
+            if(target >= nums[startArray1] && target <= nums[endArray1]){
+                int ans = binarySearch(nums, startArray1, endArray1, target);
+                return ans;
+            }
+
+            
+            int startArray2 = pivotIndex+1;
+            int endArray2 = n-1;
+            if(target >= nums[startArray2] && target <= nums[endArray2]){
+            int ans = binarySearch(nums, startArray2, endArray2, target);
+            return ans;
             }
         }
         return -1;
