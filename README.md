@@ -295,6 +295,7 @@
 | [0547-number-of-provinces](https://github.com/BattuNarayana/leetcode/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -325,6 +326,7 @@
 | [0542-01-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/BattuNarayana/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -686,6 +688,7 @@
 | [0130-surrounded-regions](https://github.com/BattuNarayana/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/BattuNarayana/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/BattuNarayana/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -694,6 +697,7 @@
 | [0207-course-schedule](https://github.com/BattuNarayana/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BattuNarayana/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/BattuNarayana/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/BattuNarayana/leetcode/tree/master/0802-find-eventual-safe-states) |
