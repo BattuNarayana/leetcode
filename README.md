@@ -101,6 +101,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/BattuNarayana/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/BattuNarayana/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BattuNarayana/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/BattuNarayana/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/BattuNarayana/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/BattuNarayana/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -496,6 +497,7 @@
 | [0796-rotate-string](https://github.com/BattuNarayana/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/BattuNarayana/leetcode/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BattuNarayana/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BattuNarayana/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Recursion
 |  |
