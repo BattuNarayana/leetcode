@@ -151,6 +151,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/BattuNarayana/leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/BattuNarayana/leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/BattuNarayana/leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/BattuNarayana/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BattuNarayana/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
@@ -589,6 +590,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BattuNarayana/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/BattuNarayana/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/BattuNarayana/leetcode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/BattuNarayana/leetcode/tree/master/0706-design-hashmap) |
@@ -655,6 +657,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/BattuNarayana/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/BattuNarayana/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/BattuNarayana/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -804,4 +807,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/BattuNarayana/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/BattuNarayana/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
