@@ -99,6 +99,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BattuNarayana/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/BattuNarayana/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/BattuNarayana/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/BattuNarayana/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BattuNarayana/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -233,6 +234,7 @@
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/BattuNarayana/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/BattuNarayana/leetcode/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -309,6 +311,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -342,6 +345,7 @@
 | [0994-rotting-oranges](https://github.com/BattuNarayana/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/BattuNarayana/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -408,6 +412,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/BattuNarayana/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BattuNarayana/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/BattuNarayana/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1649-create-sorted-array-through-instructions](https://github.com/BattuNarayana/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1901-find-a-peak-element-ii](https://github.com/BattuNarayana/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
@@ -471,6 +476,7 @@
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/BattuNarayana/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/BattuNarayana/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/BattuNarayana/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
@@ -701,6 +707,7 @@
 | [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -788,6 +795,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/BattuNarayana/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
