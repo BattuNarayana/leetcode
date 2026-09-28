@@ -458,6 +458,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/BattuNarayana/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/BattuNarayana/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/BattuNarayana/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -724,12 +725,14 @@
 | [0802-find-eventual-safe-states](https://github.com/BattuNarayana/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BattuNarayana/leetcode/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/BattuNarayana/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/BattuNarayana/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/BattuNarayana/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BattuNarayana/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/BattuNarayana/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/BattuNarayana/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Hash Function
 |  |
 | ------- |
@@ -793,12 +796,14 @@
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/BattuNarayana/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/BattuNarayana/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/BattuNarayana/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/BattuNarayana/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/BattuNarayana/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
