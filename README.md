@@ -70,6 +70,7 @@
 | [0724-find-pivot-index](https://github.com/BattuNarayana/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/BattuNarayana/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/BattuNarayana/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/BattuNarayana/leetcode/tree/master/0896-monotonic-array) |
@@ -235,6 +236,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/BattuNarayana/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/BattuNarayana/leetcode/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -307,6 +309,7 @@
 | [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/BattuNarayana/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/BattuNarayana/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -340,6 +343,7 @@
 | [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/BattuNarayana/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/BattuNarayana/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -410,6 +414,7 @@
 | [0410-split-array-largest-sum](https://github.com/BattuNarayana/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/BattuNarayana/leetcode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/BattuNarayana/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/BattuNarayana/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BattuNarayana/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -478,6 +483,7 @@
 | [0566-reshape-the-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/BattuNarayana/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/BattuNarayana/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -718,6 +724,7 @@
 | [0200-number-of-islands](https://github.com/BattuNarayana/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/BattuNarayana/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -810,6 +817,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/BattuNarayana/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/BattuNarayana/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BattuNarayana/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -825,4 +833,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/BattuNarayana/leetcode/tree/master/0146-lru-cache) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
