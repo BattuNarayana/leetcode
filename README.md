@@ -64,6 +64,7 @@
 | [0605-can-place-flowers](https://github.com/BattuNarayana/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/BattuNarayana/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/BattuNarayana/leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/BattuNarayana/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/BattuNarayana/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/BattuNarayana/leetcode/tree/master/0706-design-hashmap) |
@@ -307,6 +308,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/BattuNarayana/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -342,6 +344,7 @@
 | [0547-number-of-provinces](https://github.com/BattuNarayana/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BattuNarayana/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/BattuNarayana/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/BattuNarayana/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -483,6 +486,7 @@
 | [0498-diagonal-traverse](https://github.com/BattuNarayana/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/BattuNarayana/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/BattuNarayana/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -726,6 +730,7 @@
 | [0200-number-of-islands](https://github.com/BattuNarayana/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/BattuNarayana/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/BattuNarayana/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/BattuNarayana/leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/BattuNarayana/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/BattuNarayana/leetcode/tree/master/1020-number-of-enclaves) |
