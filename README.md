@@ -473,6 +473,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BattuNarayana/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/BattuNarayana/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/BattuNarayana/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2719-count-of-integers](https://github.com/BattuNarayana/leetcode/tree/master/2719-count-of-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -530,6 +531,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BattuNarayana/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BattuNarayana/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2719-count-of-integers](https://github.com/BattuNarayana/leetcode/tree/master/2719-count-of-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -597,6 +599,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/BattuNarayana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BattuNarayana/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/BattuNarayana/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2719-count-of-integers](https://github.com/BattuNarayana/leetcode/tree/master/2719-count-of-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/BattuNarayana/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BattuNarayana/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
