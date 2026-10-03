@@ -502,6 +502,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BattuNarayana/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/BattuNarayana/leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BattuNarayana/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/BattuNarayana/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/BattuNarayana/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/BattuNarayana/leetcode/tree/master/0072-edit-distance) |
@@ -541,6 +542,7 @@
 | [0011-container-with-most-water](https://github.com/BattuNarayana/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BattuNarayana/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BattuNarayana/leetcode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/BattuNarayana/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/BattuNarayana/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/BattuNarayana/leetcode/tree/master/0061-rotate-list) |
@@ -711,6 +713,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/BattuNarayana/leetcode/tree/master/0796-rotate-string) |
 ## Number Theory
 |  |
@@ -846,4 +849,16 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/BattuNarayana/leetcode/tree/master/0778-swim-in-rising-water) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
