@@ -442,6 +442,7 @@
 | [0234-palindrome-linked-list](https://github.com/BattuNarayana/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/BattuNarayana/leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/BattuNarayana/leetcode/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BattuNarayana/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/BattuNarayana/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Dynamic Programming
@@ -528,6 +529,7 @@
 | [0680-valid-palindrome-ii](https://github.com/BattuNarayana/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/BattuNarayana/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/BattuNarayana/leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/BattuNarayana/leetcode/tree/master/0856-score-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BattuNarayana/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BattuNarayana/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BattuNarayana/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -868,4 +870,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/BattuNarayana/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
