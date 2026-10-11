@@ -122,12 +122,14 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/BattuNarayana/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/BattuNarayana/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2706-buy-two-chocolates](https://github.com/BattuNarayana/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BattuNarayana/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/BattuNarayana/leetcode/tree/master/2951-find-the-peaks) |
 | [3731-find-missing-elements](https://github.com/BattuNarayana/leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/BattuNarayana/leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BattuNarayana/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/BattuNarayana/leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BattuNarayana/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
