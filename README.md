@@ -61,6 +61,7 @@
 | [0525-contiguous-array](https://github.com/BattuNarayana/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/BattuNarayana/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/BattuNarayana/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/BattuNarayana/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -215,6 +216,7 @@
 | [0268-missing-number](https://github.com/BattuNarayana/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BattuNarayana/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BattuNarayana/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0561-array-partition](https://github.com/BattuNarayana/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/BattuNarayana/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/BattuNarayana/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/BattuNarayana/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -232,6 +234,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/BattuNarayana/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/BattuNarayana/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/BattuNarayana/leetcode/tree/master/0561-array-partition) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BattuNarayana/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BattuNarayana/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/BattuNarayana/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -683,6 +686,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BattuNarayana/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/BattuNarayana/leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/BattuNarayana/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/BattuNarayana/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/BattuNarayana/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/BattuNarayana/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
