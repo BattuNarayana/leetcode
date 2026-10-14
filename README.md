@@ -615,6 +615,7 @@
 | [2719-count-of-integers](https://github.com/BattuNarayana/leetcode/tree/master/2719-count-of-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/BattuNarayana/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BattuNarayana/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/BattuNarayana/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
 |  |
 | ------- |
@@ -695,6 +696,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BattuNarayana/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BattuNarayana/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/BattuNarayana/leetcode/tree/master/2706-buy-two-chocolates) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/BattuNarayana/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Design
 |  |
 | ------- |
